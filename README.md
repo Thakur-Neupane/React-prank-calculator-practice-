@@ -1,4 +1,6 @@
 # React-Prank-Calculator
+<img width="400" alt="prank " src="https://github.com/Thakur-Neupane/React-prank-calculator-practice-/assets/159857520/25b632b5-03d6-410e-9c95-53459739b4d3">
+
 
 ## This react project is a Calculator. What made it more interesting is that it can give prank result sometimes.
 
